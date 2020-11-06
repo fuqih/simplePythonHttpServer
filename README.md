@@ -1,2 +1,3 @@
 # simplePythonHttpServer
 使用pythonsocket库,基于tcp连接实现的简易http服务器，实现get请求资源，可解析post请求(需要自行处理相关逻辑)
+入口在server/simple_http_server.py
